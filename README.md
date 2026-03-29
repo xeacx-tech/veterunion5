@@ -1,7 +1,5 @@
 ## License
 
-This project is licensed under a Non-Commercial License.
+All rights reserved.
 
-You are allowed to use, modify, and share this project for personal or educational purposes only.
-
-Commercial use is strictly prohibited.
+You are NOT allowed to use, copy, modify, or distribute this project in any form without explicit permission from the author.
